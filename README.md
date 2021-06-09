@@ -1,5 +1,8 @@
 http://rpachallenge.com/
 
+Short Video Demo:
+https://www.youtube.com/watch?v=ndPgw4SZjQw
+
 RPA (Robotic Process Automation) challenge. The goal was to automate the flow of getting user data (first name, last name, address, etc) from an excel file and input it onto a website with dynamically changing field positions. 
 
 My Python and Selenium solution completes the task in 3.5 seconds average. There is room for optimization but the solution is sufficient for now. This was some of my most elaborate code that I’ve done and it was very fun to research and create. 😊
