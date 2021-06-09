@@ -1,6 +1,7 @@
 http://rpachallenge.com/
 
 Short Video Demo:
+
 https://www.youtube.com/watch?v=ndPgw4SZjQw
 
 RPA (Robotic Process Automation) challenge. The goal was to automate the flow of getting user data (first name, last name, address, etc) from an excel file and input it onto a website with dynamically changing field positions. 
