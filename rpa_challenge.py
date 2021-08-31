@@ -5,7 +5,7 @@ import openpyxl
 ############################################################################################
 ## XLSX DATA RETRIEVAL PROCESS
 
-path = "C:\\Users\\iamjo\Desktop\\Selenium_Workspace\\RPA Challenge\\xlsx\\challenge.xlsx"
+path = "location of xlsx file on computer"
 wb_obj = openpyxl.load_workbook(path)
 sheet_obj = wb_obj.active
 
@@ -42,7 +42,7 @@ def list_creation(xlsx_data_list):
 ############################################################################################
 ## SELENIUM PROCESS
 
-chrome_driver_path = "C:/Users/iamjo/Desktop/Chrome Web Driver/chromedriver.exe"
+chrome_driver_path = "location of chromedriver.exe on computer"
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 driver.maximize_window()
 
